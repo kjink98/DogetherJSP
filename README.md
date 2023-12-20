@@ -148,5 +148,5 @@
 <p align="center">
 지금까지 읽어주셔서 감사합니다:)<br><br>
 추가적인 포트폴리오가 궁금하시다면 <br>
-[포트폴리오 링크](https://techhyeondev.github.io/) 를 클릭해주세요~
+[포트폴리오 링크] (https://future-drill-021.notion.site/02edd9fa9d474376930df7e644b32e4c?pvs=4) 를 클릭해주세요~
 </p>
